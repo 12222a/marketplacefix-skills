@@ -10,6 +10,7 @@ references/fab-translation.md     feature -> advantage -> benefit, with worked e
 references/amazon-fields.md       per-field rules, limits, and policy red lines
 references/message-metrics.md     attention, clarity, and effect
 scripts/check_listing.py          length and policy-word checker
+agents/openai.yaml                display metadata for Codex
 ```
 
 ## Install
