@@ -46,3 +46,7 @@ A skill here states what it refuses to do. For listing copy, that means it will 
 ## Issues and corrections
 
 If a skill gives you a wrong or outdated answer, open an issue with the input you gave it and what came back. Corrections go into the existing skill as a new version rather than into the comments.
+
+## License
+
+MIT, copyright (c) 2026 12222a. Use the skills commercially, modify them, ship them inside your own workflows. Keep the licence text with any copy you redistribute.

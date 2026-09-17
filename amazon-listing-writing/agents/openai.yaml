@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Listing Writing"
+  short_description: "Turn product facts into claims a buyer understands and acts on"
+  default_prompt: "Use $amazon-listing-writing to write the Amazon listing for this product."
